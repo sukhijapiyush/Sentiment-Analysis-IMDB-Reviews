@@ -93,7 +93,7 @@ As it can be observed the Multinomial Naive Bayes Classifier performed better th
 
 ## Acknowledgements
 
-This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
+Thanks Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts for providing the dataset to the world and to the community.
 
 ## Contact
 
