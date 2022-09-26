@@ -24,7 +24,7 @@
 
 ### Algorithm used
 
-GaussianNB, MultinomialNB, BernoulliNB from Sklearn
+MultinomialNB, BernoulliNB from Sklearn
 
 ### Dataset Information
 
